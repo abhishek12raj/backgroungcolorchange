@@ -1,0 +1,18 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+button{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border-radius: 25px;
+    border-color: aliceblue;
+    height: 44px;
+    cursor: pointer;
+}
+body{
+    background-color: aqua;
+}
